@@ -1,15 +1,22 @@
 h1 {
+  color: blue;
   text-align: center;
   font-weight: bold;
 }
 
 h2  {
+  color: teal;
   text-align: center;
   font-family: cursive;
 }
 
 h3  {
+  color: darkblue
   font-style: italic;
+}
+
+p  {
+  color: gray;
 }
 
 p.intro  {
@@ -18,4 +25,8 @@ p.intro  {
 
 p.outro  {
   font-family:  sans-serif;
+}
+
+body  {
+  background-color: skyblue;
 }
